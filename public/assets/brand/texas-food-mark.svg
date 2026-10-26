@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-labelledby="tft-title">
+  <title id="tft-title">Texas Food Trading TFT logo</title>
+  <rect x="2.5" y="2.5" width="59" height="59" rx="17" fill="#173D31"/>
+  <rect x="7" y="7" width="50" height="50" rx="13" stroke="#DCE9DC" stroke-opacity=".52" stroke-width="1.25"/>
+  <path d="M10 24h15v5h-5v16h-5V29h-5v-5Z" fill="#FCFAF5"/>
+  <path d="M27 24h14v5H32v4h8v5h-8v7h-5V24Z" fill="#FCFAF5"/>
+  <path d="M43 24h12v5h-3.5v16h-5V29H43v-5Z" fill="#FCFAF5"/>
+  <path d="m32 9.5 1.7 3.45 3.8.55-2.75 2.68.65 3.78L32 18.18l-3.4 1.78.65-3.78-2.75-2.68 3.8-.55L32 9.5Z" fill="#D77942"/>
+  <path d="M15 49h34" stroke="#D77942" stroke-width="2" stroke-linecap="round"/>
+</svg>
