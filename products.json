@@ -42,7 +42,7 @@
     "preload": true
   },
   {
-    "name": "mango",
+    "name": "Mango",
     "image": "assets/products/mango.webp",
     "description": "Mangoes for fresh produce buyers. Contact us to discuss available varieties and packaging.",
     "preload": true
@@ -54,7 +54,7 @@
     "preload": true
   },
   {
-    "name": "LEMON",
+    "name": "Lemon",
     "image": "assets/products/lemon.webp",
     "description": "Lemons for fresh produce buyers. Contact us to discuss available sizes and packaging.",
     "preload": true
@@ -66,21 +66,9 @@
     "preload": true
   },
   {
-    "name": "Egyptian Oranges",
-    "image": "assets/products/egyptian-oranges.webp",
-    "description": "Egyptian oranges for fresh produce buyers. Contact us to discuss available varieties, sizes and packaging.",
-    "preload": true
-  },
-  {
     "name": "Egyptian Mandarin (Murcott Variety)",
     "image": "assets/products/egyptian-mandarin-murcott-variety.webp",
     "description": "Egyptian mandarins, including the Murcott variety named in this listing. Contact us to discuss the product options and packaging.",
-    "preload": true
-  },
-  {
-    "name": "Egyptian Pomegranate",
-    "image": "assets/products/egyptian-pomegranate.webp",
-    "description": "Egyptian pomegranates for fresh produce buyers. Contact us to discuss available varieties, sizes and packaging.",
     "preload": true
   },
   {
@@ -132,15 +120,15 @@
     "preload": true
   },
   {
-    "name": "Egyptian Olives",
-    "image": "assets/products/egyptian-olives.webp",
-    "description": "Egyptian olives for commercial buyers. Contact us to discuss preparation styles and packaging.",
+    "name": "Frozen Potatoes (IQF)",
+    "image": "assets/products/frozen-french-fries.webp",
+    "description": "IQF frozen potato products for commercial buyers. Contact us to discuss available formats and packaging.",
     "preload": true
   },
   {
-    "name": "Egyptian Pickled Vegetables",
-    "image": "assets/products/egyptian-pickled-vegetables.webp",
-    "description": "Egyptian pickled vegetables for commercial buyers. Contact us to discuss available varieties and packaging.",
+    "name": "Egyptian Olives",
+    "image": "assets/products/egyptian-olives.webp",
+    "description": "Egyptian olives for commercial buyers. Contact us to discuss preparation styles and packaging.",
     "preload": true
   },
   {

@@ -1,6 +1,6 @@
 # تجهيز الموقع للنشر على مضيف ملفات ثابتة
 
-مجلد `public/` هو الحزمة الجاهزة للنشر، ويحتوي على صفحة الموقع وملفات التنسيق والبرمجة وبيانات المنتجات والمسارات، إلى جانب كل الصور وملفي PDF.
+مجلدا `public/` و`dist/` يحتويان على نسختين من الحزمة الثابتة الجاهزة للنشر، بما فيها صفحة الموقع وملفات التنسيق والبرمجة وبيانات المنتجات والمسارات، إلى جانب الصور وملفي PDF. يشغّل `build_public.sh` التحقق من `public/` وينسخ الحزمة إلى `dist/`.
 
 قبل الرفع من مجلد المشروع شغّل:
 
@@ -8,17 +8,17 @@
 sh build_public.sh
 ```
 
-بعدها ارفع **محتويات** `public/` إلى جذر الموقع `Document Root` على المضيف، أو اختر `public` بوصفه `Root Directory` أو `Publish Directory` إذا كانت لوحة المضيف تسمح بذلك. لا ترفع ملفات HTML وحدها؛ يجب أن يصاحبها مجلد `assets/` كاملًا.
+بعدها ارفع **محتويات** `public/` أو `dist/` إلى جذر الموقع `Document Root` على المضيف، أو اختر المجلد المناسب بوصفه `Root Directory` أو `Publish Directory` إذا كانت لوحة المضيف تسمح بذلك. لا ترفع ملفات HTML وحدها؛ يجب أن يصاحبها مجلد `assets/` كاملًا.
 
 الأصول محلية داخل الحزمة:
 
-- صورة الغلاف: `public/assets/hero/texas-food-hero.webp`
+- ثلاث صور لشريط الغلاف داخل `public/assets/hero/`: `texas-food-hero.webp` و`texas-food-hero-02.webp` و`texas-food-hero-04.webp`؛ وتعرض الشريحة الثالثة شعار Texas Food Trading من `public/assets/brand/texas-food-trading-logo.svg`
 - صور المنتجات الـ25: `public/assets/products/`
 - ورقة الفراولة المجمدة: `public/assets/product-sheets/frozen-strawberries.pdf`
 - ورقة البطاطس المجمدة: `public/assets/product-sheets/frozen-potatoes.pdf`
-- الشعار: `public/assets/brand/texas-food-mark.svg`
+- ملفات الشعار: `public/assets/brand/texas-food-mark.svg` و`public/assets/brand/texas-food-trading-logo.svg`
 
-مراجع HTML وبيانات المنتجات تستخدم مسارات نسبية مثل `assets/products/...`؛ لذلك لا تعتمد النسخة المنشورة على مسارات `/manus-storage/`. بعد النشر، تحقق من فتح صورة الغلاف، صورة منتج، وملف PDF مباشرةً من النطاق الجديد.
+مراجع HTML وبيانات المنتجات تستخدم مسارات نسبية مثل `assets/products/...`؛ لذلك لا تعتمد النسخة المنشورة على مسارات `/manus-storage/`. بعد النشر، تحقق من فتح صور الغلاف، صورة منتج، وملف PDF مباشرةً من النطاق الجديد.
 
 ## تفعيل استقبال الطلبات
 
