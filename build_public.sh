@@ -7,6 +7,9 @@ cd "$ROOT"
 mkdir -p public/assets/brand
 rm -f public/assets/hero/texas-food-hero-03.webp dist/assets/hero/texas-food-hero-03.webp
 cp index.html styles.css app.js products.json manus-routes.json public/
+
+# Copy SEO and AI discovery files
+cp robots.txt sitemap.xml llms.txt public/
 cp images/texas-food-mark.svg public/assets/brand/texas-food-mark.svg
 cp images/texas-food-trading-logo.svg public/assets/brand/texas-food-trading-logo.svg
 
