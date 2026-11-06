@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="76" viewBox="0 0 280 76" role="img" aria-labelledby="logo-title">
+  <title id="logo-title">TFT — Texas Food Trading</title>
+  <g transform="translate(6 6)">
+    <rect x="0" y="0" width="64" height="64" rx="18" fill="#173D31"/>
+    <rect x="4.5" y="4.5" width="55" height="55" rx="14" stroke="#DCE9DC" stroke-opacity=".52" stroke-width="1.25"/>
+    <path d="M9 21h16v5h-5.5v17h-5V26H9v-5Z" fill="#FCFAF5"/>
+    <path d="M27 21h15v5H32v4h9v5h-9v8h-5V21Z" fill="#FCFAF5"/>
+    <path d="M44 21h12v5h-3.5v17h-5V26H44v-5Z" fill="#FCFAF5"/>
+    <path d="m32 6.5 1.7 3.45 3.8.55-2.75 2.68.65 3.78L32 15.18l-3.4 1.78.65-3.78-2.75-2.68 3.8-.55L32 6.5Z" fill="#D77942"/>
+    <path d="M15 46h34" stroke="#D77942" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <text x="84" y="44" fill="#173D31" font-family="Inter, Aptos, 'Segoe UI', Arial, sans-serif" font-size="18" font-weight="750" letter-spacing="-.35">Texas Food Trading</text>
+  <path d="M85 55h42" stroke="#D77942" stroke-width="3" stroke-linecap="round"/>
+</svg>
