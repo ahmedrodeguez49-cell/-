@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Brazilian Coffee Beans Specifications",
+    "image": "assets/products/brazilian-coffee-beans-specifications.webp",
+    "description": "Brazilian coffee beans for commercial buyers. Contact us to discuss available types, grades and packaging.",
+    "preload": true
+  },
+  {
+    "name": "Brazilian Yellow Corn – Animal Feed Grade (GMO)",
+    "image": "assets/products/brazilian-yellow-corn-animal-feed-grade-gmo.webp",
+    "description": "Yellow corn for animal-feed use, identified as GMO in the product name. Contact us to discuss the specifications and packaging for your order.",
+    "preload": true
+  },
+  {
+    "name": "Brazilian Sugar Cane ICUMSA 45",
+    "image": "assets/products/brazilian-sugar-cane-icumsa-45.webp",
+    "description": "Brazilian cane sugar identified by the ICUMSA 45 designation. Contact us to discuss the specifications and packaging for your order.",
+    "preload": true
+  },
+  {
+    "name": "Brazilian Soya Beans",
+    "image": "assets/products/brazilian-soya-beans.webp",
+    "description": "Brazilian soybeans for commercial buyers. Contact us to discuss available grades and specifications.",
+    "preload": true
+  },
+  {
+    "name": "Brazilian Black Pepper Whole",
+    "image": "assets/products/brazilian-black-pepper-whole.webp",
+    "description": "Whole Brazilian black pepper for commercial buyers. Contact us to discuss available grades and packaging.",
+    "preload": true
+  },
+  {
+    "name": "Grape Fruit",
+    "image": "assets/products/grape-fruit.webp",
+    "description": "Grapefruit for fresh produce buyers. Contact us to discuss available sizes and packaging.",
+    "preload": true
+  },
+  {
+    "name": "Pomegranates",
+    "image": "assets/products/pomegranates.webp",
+    "description": "Pomegranates for fresh produce buyers. Contact us to discuss available varieties, sizes and packaging.",
+    "preload": true
+  },
+  {
+    "name": "mango",
+    "image": "assets/products/mango.webp",
+    "description": "Mangoes for fresh produce buyers. Contact us to discuss available varieties and packaging.",
+    "preload": true
+  },
+  {
+    "name": "Oranges",
+    "image": "assets/products/oranges.webp",
+    "description": "Oranges for fresh produce buyers. Contact us to discuss available varieties, sizes and packaging.",
+    "preload": true
+  },
+  {
+    "name": "LEMON",
+    "image": "assets/products/lemon.webp",
+    "description": "Lemons for fresh produce buyers. Contact us to discuss available sizes and packaging.",
+    "preload": true
+  },
+  {
+    "name": "Grapes",
+    "image": "assets/products/grapes.webp",
+    "description": "Grapes for fresh produce buyers. Contact us to discuss available varieties and packaging.",
+    "preload": true
+  },
+  {
+    "name": "Egyptian Oranges",
+    "image": "assets/products/egyptian-oranges.webp",
+    "description": "Egyptian oranges for fresh produce buyers. Contact us to discuss available varieties, sizes and packaging.",
+    "preload": true
+  },
+  {
+    "name": "Egyptian Mandarin (Murcott Variety)",
+    "image": "assets/products/egyptian-mandarin-murcott-variety.webp",
+    "description": "Egyptian mandarins, including the Murcott variety named in this listing. Contact us to discuss the product options and packaging.",
+    "preload": true
+  },
+  {
+    "name": "Egyptian Pomegranate",
+    "image": "assets/products/egyptian-pomegranate.webp",
+    "description": "Egyptian pomegranates for fresh produce buyers. Contact us to discuss available varieties, sizes and packaging.",
+    "preload": true
+  },
+  {
+    "name": "Egyption Grapes",
+    "image": "assets/products/egyption-grapes.webp",
+    "description": "Egyptian grapes for fresh produce buyers. Contact us to discuss available varieties and packaging.",
+    "preload": true
+  },
+  {
+    "name": "Colored Pepper",
+    "image": "assets/products/colored-pepper.webp",
+    "description": "Colored peppers for fresh produce buyers. Contact us to discuss available colors, sizes and packaging.",
+    "preload": true
+  },
+  {
+    "name": "Potatos",
+    "image": "assets/products/potatos.webp",
+    "description": "Potatoes for fresh produce buyers. Contact us to discuss available sizes and packaging.",
+    "preload": true
+  },
+  {
+    "name": "Washed Carrot",
+    "image": "assets/products/washed-carrot.webp",
+    "description": "Washed carrots for fresh produce buyers. Contact us to discuss available sizes and packaging.",
+    "preload": true
+  },
+  {
+    "name": "Red and Yellow Onions",
+    "image": "assets/products/red-and-yellow-onions.webp",
+    "description": "Red and yellow onions for fresh produce buyers. Contact us to discuss available sizes and packaging.",
+    "preload": true
+  },
+  {
+    "name": "Egyptian Garlic",
+    "image": "assets/products/egyptian-garlic.webp",
+    "description": "Egyptian garlic for fresh produce buyers. Contact us to discuss available types, sizes and packaging.",
+    "preload": true
+  },
+  {
+    "name": "Strawberries Frozen IQF",
+    "image": "assets/products/strawberries-frozen-iqf.webp",
+    "description": "Individually quick-frozen strawberries for commercial buyers. Contact us to discuss product specifications and packaging.",
+    "preload": true
+  },
+  {
+    "name": "Frozen French Fries",
+    "image": "assets/products/frozen-french-fries.webp",
+    "description": "Frozen French fries for food-service and commercial buyers. Contact us to discuss cut and packaging options.",
+    "preload": true
+  },
+  {
+    "name": "Egyptian Olives",
+    "image": "assets/products/egyptian-olives.webp",
+    "description": "Egyptian olives for commercial buyers. Contact us to discuss preparation styles and packaging.",
+    "preload": true
+  },
+  {
+    "name": "Egyptian Pickled Vegetables",
+    "image": "assets/products/egyptian-pickled-vegetables.webp",
+    "description": "Egyptian pickled vegetables for commercial buyers. Contact us to discuss available varieties and packaging.",
+    "preload": true
+  },
+  {
+    "name": "Egyptian Frozen Vegetables",
+    "image": "assets/products/egyptian-frozen-vegetables.webp",
+    "description": "Egyptian frozen vegetables for commercial buyers. Contact us to discuss available varieties and packaging.",
+    "preload": true
+  }
+]
